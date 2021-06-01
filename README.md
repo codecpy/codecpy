@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @codecpy
-- 😎 Real name Mutungi William
+- 😎 Real name Sabeth Kimuyu
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning java Enterprise.
 - 💞️ I’m looking to collaborate on DevOps.
